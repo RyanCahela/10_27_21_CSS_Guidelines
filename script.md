@@ -21,7 +21,7 @@ I'm not going to cover everything in the article Just the things you can start u
 
  - this one is as simple as it is powerful, put labels on large chunks of code.
 
- - It just makes there be 1 less thing you have to search for and you can free up your focus to solve more important problems than getting lost in your own code.
+ - It just makes it so there is 1 less thing you have to search for and you can free up your focus to solve more important problems than getting lost in your own code.
 
  - using a '#' in front of the section title make it easy to search for that section and immediatly find it.
  
